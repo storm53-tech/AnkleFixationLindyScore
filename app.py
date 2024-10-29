@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load your cleaned data
-cleaned_data = pd.read_csv('/Users/kcherne/Downloads/Cleaned_Ankle_Fixation_Data.csv')
+cleaned_data = pd.read_csv('Cleaned_Ankle_Fixation_Data.csv')
 
 # Function to calculate the Lindy score (this is a placeholder; replace with your logic)
 def calculate_lindy_score(row):
